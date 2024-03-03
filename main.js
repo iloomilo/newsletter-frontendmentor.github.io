@@ -23,3 +23,4 @@ document.getElementById("submit-btn").addEventListener("click", e => {
     }
 });
 
+document.getElementById("dismiss").addEventListener("click", () => location.reload());
